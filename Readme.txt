@@ -1,0 +1,1 @@
+To run the program, open command line and enter this command: sh run.sh
